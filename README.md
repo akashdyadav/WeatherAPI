@@ -6,3 +6,8 @@ Tools used
 Springboot
 Java8
 Gradle
+
+Howto access:
+http://localhost:8080/weatherapi/{place}
+
+Example: http://localhost:8080/weatherapi/london
